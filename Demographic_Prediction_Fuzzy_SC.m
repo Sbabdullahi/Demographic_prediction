@@ -1,5 +1,5 @@
 
-%In this code, we develop a demographic prediction model using nonlinear
+%In this MATLAB code, we develop a demographic prediction model using nonlinear
 %data from the weight of adaptive neuro fuzzy inference system with SC.
 %The code is modified from the individual existing codes of fuzzy decision 
 %and clustering algorithms in MATLAB.
